@@ -32,4 +32,8 @@ Pride in Craftsmanship: Crafting beautiful, functional software ain't just a job
 Data Sage: Data is the lifeblood of any modern business, and I know how to make it sing. With years of experience in database and data-driven application development, I can turn your raw data into actionable insights that drive your business forward.
 Integration Sensei: In today's interconnected world, seamless integrations are key. Whether it's hooking up with third-party APIs or syncing with your favorite web services, I've got the skills to make it happen ‐ no hassle, no drama.
 
-## Discord: Warky (Hein)#7581
+## Discord: 
+Warky (Hein)#7581
+
+## Git Hosted
+[git.warky.dev](https://git.warky.dev)
