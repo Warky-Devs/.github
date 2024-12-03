@@ -7,7 +7,6 @@ The programmer promises to
 
 - Never write malicious or dangerous code.
 - Always code their best work with good behaviour and structure.
-- Always code their best work with good behaviour and structure.
 - Don't let defective code accumulate.
 - Ensure the code is working like it was suppose to with proof and test cases.
 - Make frequent and small changes as to not impede others.
